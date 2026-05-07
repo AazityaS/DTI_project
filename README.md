@@ -89,6 +89,16 @@ Processes user input and returns predictions.
 
 ### Frontend Interface
 Displays phishing detection results with visual indicators.
-git clone <repo-link>
-cd phishing-url-detection
-pip install -r requirements.txt
+
+---
+
+## Screenshots
+
+### Homepage
+![Homepage](images/Homepage.png)
+
+### Legitimate Website Detection
+![Legitimate Result](images/Real.png)
+
+### Phishing Website Detection
+![Phishing Result](images/Phishing.png)
